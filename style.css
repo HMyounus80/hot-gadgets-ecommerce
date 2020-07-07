@@ -1,0 +1,43 @@
+.container {
+    margin-bottom: 100px;
+}
+.buy-now-button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.carousel-bg {
+    background-image: url("images/background/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#carousel-bg {
+    background-image: url("images/background/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.carousel-indicators li {
+    background-color: orange;
+   
+}
+span {
+    color: orange;
+}
+.smartphone {
+    
+    margin-bottom: 40px;
+}
+
+.card {
+    border: none;
+    box-shadow: 10px 10px 30px lightgray;
+}
+.categories {
+    width: 100px;
+    margin: auto;
+    border-bottom: 3px solid orange;
+}
+.bag {
+    background-color: orange;
+}
