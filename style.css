@@ -41,3 +41,8 @@ span {
 .bag {
     background-color: orange;
 }
+.cetagories-icon {
+    border: none;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 8px;
+}
